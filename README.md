@@ -1,2 +1,2 @@
 # Projeto-de-Android
-Projetos implementados Durante o curso de Projetos de Programas
+Projeto de aplicativo de senhas para android realizado no curso de projeto de programas
